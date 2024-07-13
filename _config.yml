@@ -1,0 +1,5 @@
+title: My Portfolio
+logo: /assets/img/headshot_circle.png
+description: A portfolio showcasing my projects and skills.
+show_downloads: true
+theme: jekyll-theme-minimal

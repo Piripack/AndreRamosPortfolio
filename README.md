@@ -1,7 +1,7 @@
 # AndreRamosPortfolio
 Andre Ramos
 Rochdale, Manchester 
-07397028448 • andre.wilsonramos@gmail.com • LinkedIn: Andre Ramos
+• andre.wilsonramos@gmail.com • LinkedIn: Andre Ramos
 
 Personal statement
 ________________________________________
